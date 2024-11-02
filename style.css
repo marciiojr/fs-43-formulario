@@ -75,12 +75,14 @@ button {
     color: rgb(79, 79, 201);
     padding: 10px 30px;
     border-radius: 5px;
+    width: 100%;
 }
 
 button:hover {
     color: white;
-    background-color:  rgb(152, 63, 235);
+    background-color:  rgb(170, 86, 249);
     transition: 1s;
+    padding: 12px 35px;
 }
 
 textarea {
